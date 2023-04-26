@@ -1,0 +1,177 @@
+body {
+  background-image: url(imagens/horizontal2.jpg);
+  background-size: cover;
+  color: rgb(89,51,40);
+  font-family: 'Lobster', cursive;
+  font-family: 'Open Sans', sans-serif;
+  }
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+  margin-bottom: 0px;
+  margin-top: 35%;
+  }
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  }
+span {
+  color: rgb(255,227,207);
+  }
+  
+.take-the { 
+  position: relative;
+  left: 58%;
+  }
+.see-what {
+  position: relative;
+  left: 65%
+  }
+.with-your {
+  position: relative;
+  left: 66%;
+  }
+input {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-weight: bolder;
+  position: relative;
+  left: 78%;
+  background-color: rgb(255,227,207);
+  border-color: rgb(255,227,207);
+  border-radius: 10%;
+  }
+.sentence {
+  font-family: 'Lobster', cursive;
+  font-weight: lighter;
+  font-size: 30px;
+  position: relative;
+  text-align: center;
+  left: 30%;
+  background-color: rgba(255,227,207,0.7);
+  }
+.follow {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  color: rgb(89,51,40);
+  font-size: 12px;
+  position: fixed;
+  bottom: 40px;
+  left: 1.8%;
+  }
+ul {
+  list-style: none;
+}
+li {
+  display: inline;
+}
+.linkedin{
+  position: fixed;
+  color: rgb(89,51,40);
+  text-decoration: none;
+  font-size: 20px;
+  bottom: 2%;
+  left:3%;
+}
+.github{
+  position:fixed;
+  color: rgb(89,51,40);
+  text-decoration: none;
+  font-size: 20px;
+  bottom: 2%;
+  left:4.5%;
+}
+
+
+
+
+
+@media (max-width: 1280px) {
+
+  body {
+    background-image: url(imagens/horizontal2.jpg);
+    background-size: cover;
+    color: rgb(89,51,40);
+    font-family: 'Lobster', cursive;
+    font-family: 'Open Sans', sans-serif;
+    }
+  h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    margin-bottom: 0px;
+    margin-top: 35%;
+    }
+  p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    }
+  span {
+    color: rgb(255,227,207);
+    }
+    
+  .take-the { 
+    position: relative;
+    left: 58%;
+    }
+  .see-what {
+    position: relative;
+    left: 65%
+    }
+  .with-your {
+    position: relative;
+    left: 66%;
+    }
+  input {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: bolder;
+    position: relative;
+    left: 78%;
+    background-color: rgb(255,227,207);
+    border-color: rgb(255,227,207);
+    border-radius: 10%;
+    }
+  .sentence {
+    font-family: 'Lobster', cursive;
+    font-weight: lighter;
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    left: 30%;
+    background-color: rgba(255,227,207,0.7);
+    }
+  .follow {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    color: rgb(89,51,40);
+    font-size: 12px;
+    position: fixed;
+    bottom: 40px;
+    left: 1.8%;
+    }
+  ul {
+    list-style: none;
+  }
+  li {
+    display: inline;
+  }
+  .linkedin{
+    position: fixed;
+    color: rgb(89,51,40);
+    text-decoration: none;
+    font-size: 20px;
+    bottom: 2%;
+    left:3%;
+  }
+  .github{
+    position:fixed;
+    color: rgb(89,51,40);
+    text-decoration: none;
+    font-size: 20px;
+    bottom: 2%;
+    left:4.5%;
+  }
+
+}
